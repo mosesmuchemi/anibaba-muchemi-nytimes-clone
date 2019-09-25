@@ -169,6 +169,15 @@ h5 {
   padding: 0 0 1px 0;
 }
 
+.row-block > p {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+  font-family: nyt-cheltenham-small, georgia, "times new roman", sans-serif;
+  text-align: right;
+  color: rgb(153, 153, 153);
+}
+
 #poster-header > p {
   font-size: 0.875em;
   font-weight: 400;
@@ -309,15 +318,6 @@ a.links {
 .row-block > img {
   height: 174px;
   width: 262px;
-}
-
-.row-block > p {
-  padding: 0;
-  margin: 0;
-  font-size: 10px;
-  font-family: nyt-cheltenham-small, georgia, "times new roman", sans-serif;
-  text-align: right;
-  color: rgb(153, 153, 153);
 }
 
 .row-block h2 {
