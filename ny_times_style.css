@@ -9,7 +9,15 @@ body {
 
 header {
   border-bottom: 1px solid lightgray;
-  padding-bottom: 5px;
+  padding-bottom: 3px;
+  width:100%;
+  position:fixed;
+  top:0px;
+  background-color: #fff;
+}
+
+.section-title{
+  margin-top: 200px;
 }
 
 .left {
@@ -57,7 +65,7 @@ p.left {
 
 .section1 {
   width: 945px;
-  margin: auto;
+  margin: 100px auto;
 }
 
 #section-title {
@@ -431,6 +439,17 @@ footer {
 #footer-links {
   width: 1300px;
   display: flow-root;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  color: black;
+  text-align: center;
+  border-top: 1px solid rgb(26, 24, 24);
 }
 
 .column {
