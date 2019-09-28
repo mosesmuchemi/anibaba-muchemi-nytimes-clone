@@ -10,13 +10,13 @@ body {
 header {
   border-bottom: 1px solid lightgray;
   padding-bottom: 3px;
-  width:100%;
-  position:fixed;
-  top:0px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
   background-color: #fff;
 }
 
-.section-title{
+.section-title {
   margin-top: 200px;
 }
 
